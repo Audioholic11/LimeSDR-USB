@@ -1,4 +1,4 @@
-(kicad_pcb (version 20170123) (host pcbnew "(2017-06-07 revision 51bed4bae)-makepkg")
+(kicad_pcb (version 4) (host pcbnew 4.0.6)
 
   (general
     (links 47)
@@ -76,6 +76,7 @@
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15)
+      (hpglpenoverlay 2)
       (psnegative false)
       (psa4output false)
       (plotreference false)
